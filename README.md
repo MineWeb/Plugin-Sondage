@@ -1,7 +1,7 @@
 # Plugin Mineweb | Sondage
 
 ## Description
-Ajouter autant de Discord que vous le souhaitez sur une seul page, et inviter vos joueurs sur votre Sondage !
+Ajouter autant de Sondage vous le souhaitez sur une seul page, et inviter vos joueurs pour qu'il puissent y répondre (VotreSite/sondage).
 
 ## Installation | FTP
 1. Cliquez sur "Clone or download" sur la page "https://github.com/MineWeb/Plugin-Sondage".
