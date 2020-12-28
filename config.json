@@ -1,35 +1,27 @@
 {
-   "name":"Sondage",
-   "admin_menus":{
-      "GLOBAL__ADMIN_PLUGINS":{
-         "Sondage":{
-            "icon":"question",
-            "menu":{
-               "Gérer les sondages":{
-                  "icon":"cog",
-                  "route":"/admin/sondage"
-               }
+    "name": "Sondage",
+    "author": "EmpireDev",
+    "version": "1.0.4",
+    "admin_menus": {
+        "GLOBAL__ADMIN_PLUGINS": {
+            "Sondage": {
+                "icon": "question",
+                "route": "/admin/sondage"
             }
-         }
-      }
-   },
-   "navbar_routes":{
-      "Sondage":"/sondage"
-   },
-   "author":"EmpireDev",
-   "version":"1.0.3",
-   "useEvents":false,
-   "permissions":{
-      "available":[],
-      "default":{
-         "0":[
-
-         ],
-         "2":[
-         ]
-      }
-   },
-   "requirements":{
-      "CMS":"^1.2.0"
-   }
+        }
+    },
+    "navbar_routes": {
+        "Sondage": "/sondage"
+    },
+    "useEvents": false,
+    "permissions": {
+        "available": [],
+        "default": {
+            "0": [],
+            "2": []
+        }
+    },
+    "requirements": {
+        "CMS": "^1.11.0"
+    }
 }
