@@ -1,9 +1,10 @@
-<div class="container">
-    <div class="row">
-        <h2>Configurer les sondages</h2>
-        <hr>
-        <div class="box">
-            <div class="box-body">
+<section class="content">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Configurer les sondages</h2>
+            </div>
+            <div class="card-body">
                 <a class="btn btn-primary" href="<?= $this->Html->url(array('plugin' => 'Sondage', 'admin' => true, 'controller' => 'Sondage', 'action' => 'create')) ?>">Créer un sondage</a>
                 <table class="table">
                     <thead>
