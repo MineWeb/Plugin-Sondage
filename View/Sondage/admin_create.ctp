@@ -25,10 +25,10 @@
         </div>
         <div class="clearfix"></div>
     </div>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/js/bootstrap-datepicker.js"></script>
-    <script>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/js/bootstrap-datepicker.js"></script>
+<script>
     $(document).ready(function() {
         $('.btn-add-cmd').click(function() {
 
@@ -62,4 +62,4 @@
         language: 'fr',
         startDate: '+1d'
     });
-    </script>
+</script>
